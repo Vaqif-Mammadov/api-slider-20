@@ -1,0 +1,43 @@
+ * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+   list-style: none;
+ }
+
+ body {
+   background-color: aqua;
+   text-align: center;
+   color: brown;
+ }
+
+ #heading__text {
+   margin: 40px;
+ }
+
+ .images {
+   margin: 0 auto;
+   position: relative;
+   width: 300px;
+   height: 500px;
+   object-fit: contain;
+ }
+
+ .foto {
+   width: 100%;
+ }
+
+ #sag {
+   font-size: 25px;
+   position: absolute;
+   top: 55%;
+   right: 450px
+ }
+
+ #sol {
+   font-size: 25px;
+   position: absolute;
+   top: 55%;
+   left: 450px
+ }
